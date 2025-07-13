@@ -1,0 +1,14 @@
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\bin\Debug\net8.0\Student Grade Evaluator.exe
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\bin\Debug\net8.0\Student Grade Evaluator.deps.json
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\bin\Debug\net8.0\Student Grade Evaluator.runtimeconfig.json
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\bin\Debug\net8.0\Student Grade Evaluator.dll
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\bin\Debug\net8.0\Student Grade Evaluator.pdb
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.AssemblyInfoInputs.cache
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.AssemblyInfo.cs
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.csproj.CoreCompileInputs.cache
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.dll
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\refint\Student Grade Evaluator.dll
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.pdb
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\Student Grade Evaluator.genruntimeconfig.cache
+C:\Users\NamrahAkram\source\repos\Student Grade Evaluator\Student Grade Evaluator\obj\Debug\net8.0\ref\Student Grade Evaluator.dll
