@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FetchPostsAndDisplayApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c430cb34c622c220aec83faadf685f308d26758")]
 [assembly: System.Reflection.AssemblyProductAttribute("FetchPostsAndDisplayApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FetchPostsAndDisplayApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

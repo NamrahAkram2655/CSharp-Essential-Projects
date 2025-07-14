@@ -1,0 +1,14 @@
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\bin\Debug\net8.0\PersonDataGettingApp.exe
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\bin\Debug\net8.0\PersonDataGettingApp.deps.json
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\bin\Debug\net8.0\PersonDataGettingApp.runtimeconfig.json
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\bin\Debug\net8.0\PersonDataGettingApp.dll
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\bin\Debug\net8.0\PersonDataGettingApp.pdb
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.AssemblyInfoInputs.cache
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.AssemblyInfo.cs
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.csproj.CoreCompileInputs.cache
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.dll
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\refint\PersonDataGettingApp.dll
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.pdb
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\PersonDataGettingApp.genruntimeconfig.cache
+C:\Users\NamrahAkram\source\repos\PersonDataGettingApp\PersonDataGettingApp\obj\Debug\net8.0\ref\PersonDataGettingApp.dll

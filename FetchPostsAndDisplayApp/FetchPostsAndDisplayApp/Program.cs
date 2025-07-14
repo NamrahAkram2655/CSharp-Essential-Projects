@@ -12,14 +12,11 @@ class Program
 
         try
         {
-            // Send HTTP GET request
             HttpResponseMessage response = await client.GetAsync(url);
-            response.EnsureSuccessStatusCode(); // Throw if not success
+            response.EnsureSuccessStatusCode(); 
 
-            // Read response content as a string
             string jsonData = await response.Content.ReadAsStringAsync();
 
-            // Save to file
             File.WriteAllText("data.json", jsonData);
             Console.WriteLine("Data saved to data.json");
         }
